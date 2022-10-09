@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Victor Misyutin
 - 👀 I’m interested in Programming, Chess, and Music
-- 🌱 I’m currently learning java, c++, c#, and python. As well as how to create and integrate an SQL database into a project.
+- 🌱 I’m currently learning Java, C++, C#, Python, MatLab, Node.js, HTML, CSS, JavaScript, and Mathematica . As well as how to create and integrate Microsoft SQL databases into my projects.
 - You can reach me with my email: misyutinvictor@gmail.com
 
 <!---
