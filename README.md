@@ -1,4 +1,4 @@
-# Hello, I'm Victor Misyutin
+# Hello, I'm Victor
 ## 👋 About Me
 - 📚 I am currently a sophomore at Oakton College studying computer science but I hope to transfer to UIUC in the summer.
 - 👀 I’m interested in Programming, Chess, and Music
