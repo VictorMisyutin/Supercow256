@@ -1,8 +1,8 @@
 # Hello, I'm Victor
 ## 👋 About Me
-- 📚 I am currently a sophomore at Oakton College studying computer science but I hope to transfer to UIUC in the summer.
+- 📚 I am a sophomore at Oakton College studying computer science but I hope to transfer to UIUC in the summer.
 - 👀 I’m interested in Programming, Chess, and Music
-- 📝 Last summer I had an internship but I hope to gain some more real world experience before I graduate.
+- 📝 Last summer I had an internship but I hope to gain some more real-world experience before I graduate.
 - 🌱 Right now I am learning Java, C++, C#, Python, Angular, HTML, CSS, Bootstrap, JavaScript, TypeScript, SQL, as well as data structures and algorithms.
 ## 💻 Work Stats
 <p align="center">
