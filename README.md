@@ -6,8 +6,10 @@
 - 🌱 Right now I am learning Java, C++, C#, Python, Angular, HTML, CSS, Bootstrap, JavaScript, TypeScript, SQL, as well as data structures and algorithms.
 ## 💻 Work Stats
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=victormisyutin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=victormisyutin&theme=darcula&hide_border=true&background=FFFFFF00">
+<!--   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=victormisyutin&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=victormisyutin&theme=darcula&hide_border=true&background=FFFFFF00"> -->
+  ![](https://raw.githubusercontent.com/victormisyutin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+  ![](https://raw.githubusercontent.com/victormisyutin/github-stats/master/generated/overview.svg#gh-light-mode-only)
   <br>
 </p>
 
