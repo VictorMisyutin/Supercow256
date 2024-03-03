@@ -6,7 +6,7 @@
 - 🌱 Right now I am learning Java, C++, C#, Python, Angular, HTML, CSS, Bootstrap, JavaScript, TypeScript, SQL, as well as data structures and algorithms.
 ## 💻 Work Stats
 <p align="center">
-  <img height=195px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=victormisyutin&layout=compact">
+  <img height=195px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=victormisyutin&layout=compact&langs_count=10&theme=dark">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=victormisyutin&theme=dark" alt="GitHub Streak" /></a>
 
   <br>
