@@ -7,7 +7,7 @@
 ## 💻 Work Stats
 <p align="center">
   <img height=195px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=victormisyutin&layout=compact&langs_count=10&theme=dark">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=victormisyutin&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=victormisyutin&theme=dark" alt="GitHub Streak" />
 
   <br>
 </p>
