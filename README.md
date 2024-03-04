@@ -3,7 +3,7 @@
 - 📚 I am a sophomore at Oakton College studying computer science but I hope to transfer to UIUC in the summer.
 - 👀 I’m interested in Programming, Chess, and Music
 - 📝 Last summer I had an internship but I hope to gain some more real-world experience before I graduate.
-- 🌱 Right now I am learning Java, C++, C#, Python, Angular, HTML, CSS, Bootstrap, JavaScript, TypeScript, SQL, as well as data structures and algorithms.
+- 🌱 Right now I am learning C++, Python, Bootstrap, SQL, as well as data structures and algorithms.
 ## 💻 Work Stats
 <p align="center">
   <img height=195px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=victormisyutin&layout=compact&langs_count=10&theme=dark">
