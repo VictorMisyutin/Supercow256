@@ -14,6 +14,7 @@
 ## Current Project
 I am currently working on <a href="https://vicmis.com/">vicmis.com</a>
 This is sort of a portfolio website and container for projects I want to work on or APIs that anyone can use.
+I am hosting it using an AWS Ubuntu EC2 istance. 
 The repository for that project is currently private but some of the projects hosted on the website are public.
 I am using the Angular framework (HTML, CSS, TypeScript/JS) for the front end. I also have Flask running on the back end for
 the APIs. Also one of the projects on there (Space Invaders) I am making with Unity but that is still a work in progress.
