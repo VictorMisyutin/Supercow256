@@ -1,6 +1,6 @@
 # Hello, I'm Victor
 ## 👋 About Me
-- 📚 I am a sophomore at Oakton College studying computer science but I am transferring to UIUC in the fall.
+- 📚 I am an incoming Junior at the University of Illinois in Urbana Champaign studying computer science.
 - 👀 I’m interested in Programming, Chess, and Music
 - 📝 Last summer I had an internship but I hope to gain some more real-world experience before I graduate.
 - 🌱 Right now I am learning C++, Python, Bootstrap, SQL, as well as data structures and algorithms.
