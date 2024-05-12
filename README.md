@@ -3,7 +3,7 @@
 - 📚 I am an incoming Junior at the University of Illinois in Urbana Champaign studying computer science.
 - 👀 I’m interested in Programming, Chess, and Music
 - 📝 Last summer I had an internship but I hope to gain some more real-world experience before I graduate.
-- 🌱 Right now I am learning C++, Python, Bootstrap, SQL, as well as data structures and algorithms.
+- 🌱 Right now I am learning C++, Bootstrap, SQL, and Assembly.
 ## 💻 Work Stats
 <p align="center">
   <img height=195px" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=victormisyutin&layout=compact&langs_count=10&theme=dark">
